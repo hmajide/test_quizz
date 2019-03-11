@@ -31,3 +31,4 @@ You have to build a Quiz with questions/responses saved in a db.
 * Use Bundles
 * Make it work!
 "# test_quizz" 
+"# QUIZZ_TEST_SF3" 
